@@ -19,6 +19,7 @@ PARSERS = {
     'c': taghelper_c.parse,
     'cpp': taghelper_c.parse,
     'python': taghelper_python.parse,
+    'pymode': taghelper_python.parse,
     'diff': taghelper_diff.parse,
 }
 
